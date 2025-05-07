@@ -1,0 +1,32 @@
+div {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  border: 1px solid black;
+  margin-left: 2px;
+  background-clip: content-box;
+}
+
+#first{
+  padding: 10px;
+  margin-bottom: 65px;
+}
+
+#second{
+  padding: 55;
+  padding-right: 55;
+  padding-top: 30;
+  padding-bottom: 30;
+  margin-bottom: 5;
+}
+
+div {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  border: 1px solid black;
+  margin-left: 2px;
+  background-clip: content-box;
+}
+
+
