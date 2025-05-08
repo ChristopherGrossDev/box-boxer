@@ -13,20 +13,28 @@ div {
 }
 
 #second{
-  padding: 55;
-  padding-right: 55;
-  padding-top: 30;
+  padding: 55px;
+  padding-right: 100px;
+  padding-top: 30px;
   padding-bottom: 30;
-  margin-bottom: 5;
+  margin-bottom: 250px;
+  margin-top: 250px;
+  margin: 5px;
 }
 
-div {
-  background-color: red;
-  width: 65px;
-  height: 65px;
-  border: 1px solid black;
-  margin-left: 2px;
-  background-clip: content-box;
+#third{
+  padding: 30px 55px 30px 30px;
+  margin-bottom: 100PX;
+  margin: 10px;
+  margin-top: 15;
 }
 
-
+#fourth{
+  margin-left: 600px;
+  margin-top: 150px;
+  margin-left: 15px;
+  margin-right: 5px;
+  padding: 100px;
+  padding-left: 300px;
+  padding-right: 250px;
+}
